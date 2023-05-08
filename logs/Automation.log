@@ -1,0 +1,68 @@
+2023-05-08T10:34:18,630 [Test worker] INFO  (BaseTest.java:23) - Iniciando la configuracion
+2023-05-08T10:34:19,090 [Test worker] INFO  (BaseTest.java:27) - Configuracion Exitosa
+2023-05-08T10:36:56,750 [Test worker] INFO  (BaseTest.java:23) - Iniciando la configuracion
+2023-05-08T10:36:57,206 [Test worker] INFO  (BaseTest.java:27) - Configuracion Exitosa
+2023-05-08T10:37:32,825 [Test worker] INFO  (BaseTest.java:23) - Iniciando la configuracion
+2023-05-08T10:37:33,276 [Test worker] INFO  (BaseTest.java:27) - Configuracion Exitosa
+2023-05-08T10:37:43,835 [Test worker] INFO  (BaseTest.java:23) - Iniciando la configuracion
+2023-05-08T10:37:44,290 [Test worker] INFO  (BaseTest.java:27) - Configuracion Exitosa
+2023-05-08T10:37:45,978 [Test worker] INFO  (BaseTest.java:23) - Iniciando la configuracion
+2023-05-08T10:37:45,981 [Test worker] INFO  (BaseTest.java:27) - Configuracion Exitosa
+2023-05-08T10:41:06,008 [Test worker] INFO  (BaseTest.java:23) - Iniciando la configuracion
+2023-05-08T10:41:06,443 [Test worker] INFO  (BaseTest.java:27) - Configuracion Exitosa
+2023-05-08T10:41:07,874 [Test worker] INFO  (BaseTest.java:23) - Iniciando la configuracion
+2023-05-08T10:41:07,876 [Test worker] INFO  (BaseTest.java:27) - Configuracion Exitosa
+2023-05-08T11:34:41,797 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:34:42,261 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:34:44,429 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:34:44,431 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:36:11,595 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:36:12,067 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:36:14,200 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:36:14,201 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:57:04,547 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:57:05,034 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:57:07,138 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:57:07,140 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:57:41,750 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:57:42,228 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:57:44,390 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:57:44,392 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:58:21,615 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:58:22,173 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T11:58:23,882 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T11:58:23,884 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T12:15:05,892 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T12:15:06,706 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T12:22:15,413 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T12:22:16,215 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T12:22:19,272 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T12:22:19,274 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T12:26:07,817 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T12:26:08,600 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T12:26:11,667 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T12:26:11,669 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T12:27:08,448 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T12:27:09,230 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T12:27:12,178 [Test worker] INFO  (BaseTest.java:24) - Iniciando la configuracion
+2023-05-08T12:27:12,180 [Test worker] INFO  (BaseTest.java:28) - Configuracion Exitosa
+2023-05-08T12:29:24,374 [Test worker] INFO  (BaseTest.java:18) - Iniciando la configuracion
+2023-05-08T12:29:24,840 [Test worker] INFO  (BaseTest.java:22) - Configuracion Exitosa
+2023-05-08T12:29:26,502 [Test worker] INFO  (BaseTest.java:18) - Iniciando la configuracion
+2023-05-08T12:29:26,504 [Test worker] INFO  (BaseTest.java:22) - Configuracion Exitosa
+2023-05-08T12:30:13,828 [Test worker] INFO  (BaseTest.java:20) - Iniciando la configuracion
+2023-05-08T12:30:14,301 [Test worker] INFO  (BaseTest.java:24) - Configuracion Exitosa
+2023-05-08T12:30:16,106 [Test worker] INFO  (BaseTest.java:20) - Iniciando la configuracion
+2023-05-08T12:30:16,108 [Test worker] INFO  (BaseTest.java:24) - Configuracion Exitosa
+2023-05-08T12:37:51,886 [Test worker] INFO  (BaseTest.java:20) - Iniciando la configuracion
+2023-05-08T12:37:52,350 [Test worker] INFO  (BaseTest.java:24) - Configuracion Exitosa
+2023-05-08T12:37:54,053 [Test worker] INFO  (BaseTest.java:20) - Iniciando la configuracion
+2023-05-08T12:37:54,055 [Test worker] INFO  (BaseTest.java:24) - Configuracion Exitosa
+2023-05-08T12:38:13,203 [Test worker] INFO  (BaseTest.java:20) - Iniciando la configuracion
+2023-05-08T12:38:13,749 [Test worker] INFO  (BaseTest.java:24) - Configuracion Exitosa
+2023-05-08T12:38:15,178 [Test worker] INFO  (BaseTest.java:20) - Iniciando la configuracion
+2023-05-08T12:38:15,181 [Test worker] INFO  (BaseTest.java:24) - Configuracion Exitosa
+2023-05-08T12:38:25,877 [Test worker] INFO  (BaseTest.java:20) - Iniciando la configuracion
+2023-05-08T12:38:26,434 [Test worker] INFO  (BaseTest.java:24) - Configuracion Exitosa
+2023-05-08T12:38:27,846 [Test worker] INFO  (BaseTest.java:20) - Iniciando la configuracion
+2023-05-08T12:38:27,848 [Test worker] INFO  (BaseTest.java:24) - Configuracion Exitosa
